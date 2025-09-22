@@ -6,7 +6,7 @@ Selamat datang di panduan cepat dan santai buat kamu yang mau ngoding dengan **R
 
 ## ⚙️ Apa aja yang harus disiapin?
 
-1. **Node.js (LTS 18+)** 🟢
+1. **Node.js** 🟢
    👉 [Download Node.js](https://nodejs.org/en/download)
 
 2. **JDK** ☕
