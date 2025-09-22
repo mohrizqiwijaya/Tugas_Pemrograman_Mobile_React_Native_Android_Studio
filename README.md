@@ -9,8 +9,8 @@ Selamat datang di panduan cepat dan santai buat kamu yang mau ngoding dengan **R
 1. **Node.js (LTS 18+)** 🟢
    👉 [Download Node.js](https://nodejs.org/en/download)
 
-2. **JDK 18-20** ☕
-   👉 [Download JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+2. **JDK** ☕
+   👉 [Download JDK](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 
 3. **Android Studio & SDK** 📱
